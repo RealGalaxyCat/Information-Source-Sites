@@ -9,7 +9,7 @@ Data Type: html
 
 ### Tor Exit Node IP List
 Link: [https://check.torproject.org/torbulkexitlist](https://check.torproject.org/torbulkexitlist) <br>
-Raw URL: https://check.torproject.org/torbulkexitlist <br>
+Raw URL: ``https://check.torproject.org/torbulkexitlist`` <br>
 Data Type: text/raw
 
 
