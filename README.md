@@ -4,7 +4,8 @@ This is a collection of sites which have endpoints that offer free data without 
 ## Tor Related Sites
 
 ### Tor Relay Search
-URL: https://metrics.torproject.org/rs.html <br>
+Link: [https://metrics.torproject.org/rs.html](https://metrics.torproject.org/rs.html) <br>
+Raw URL: ``https://metrics.torproject.org/rs.html`` <br>
 Data Type: html
 
 ### Tor Exit Node IP List
